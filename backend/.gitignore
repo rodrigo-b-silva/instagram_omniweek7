@@ -1,4 +1,4 @@
 node_modules
 *.log
-upload/resized/*
-!upload/resized/.gitkeep
+uploads/resized/*
+!uploads/resized/.gitkeep
